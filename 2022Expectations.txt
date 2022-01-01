@@ -1,0 +1,3 @@
+Expecations 2022
+
+Jan 1st - Set up Npm, git terminals. Configure github account. Download necessary software programs for website creation. 	
